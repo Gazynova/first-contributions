@@ -5,6 +5,8 @@ sara
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
 - [QubeUK](https://github.com/QubeUK)
+
+- [Somnath Prajapati](https://github.com/Gazynova)
 - [Andreas Carlsson](https://github.com/Fetante)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
 - [Eugene mehta](https://github.com/euguene)
